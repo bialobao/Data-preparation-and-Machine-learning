@@ -1,0 +1,2 @@
+# Data preparation and Machine learning
+ The following study is based on the theories of data set characterization, data preparation application, Exploratory Data Analysis, PCA, LDA and Machine learning models. In this study, data from the focus is the provided Shill bidding were used in order to analyze the data through python software, demonstrating supervised machine learning throughout for fraud prediction on online shopping sites.
